@@ -16,7 +16,7 @@ To run this app, download the apk and install on your Android phone.
 
 - Android 8.0+
 
-## Feature
+## Features
 1. Turn on (or off) mining automatically if a wireless network AND a phone charging state is detected (or not)
 2. Adjust mining speed automatically when the screen is on or off
 3. Provide pools with different difficulties
