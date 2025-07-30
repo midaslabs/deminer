@@ -1,0 +1,3 @@
+# Assign security lead and NDK expert to native-code paths and wallet logic files.
+*       @security-lead
+/xmrig_src/   @ndk-expert
